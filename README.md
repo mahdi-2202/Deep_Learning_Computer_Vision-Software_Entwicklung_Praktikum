@@ -4,10 +4,10 @@ Zusätzlich wird Grad-CAM verwendet, um visuell darzustellen, welche Bildbereich
 
 sommerasterr
 ![](./bilder/sommerasterr.jpg)
-
+<br>
 sonnenblume
 ![](./bilder/sonnenblume.JPG)
-
+<br>
 tellerkräuter
 ![](./bilder/tellerkräuter.jpg)
 
