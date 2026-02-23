@@ -1,17 +1,2 @@
-# Deep-Learning & Computer-Vision
+# Drei Blumenarten erkennen
 
-![](./Intro/cvdl.png)
-
-# Introduction
-- Human Perception & Computer Vision
-- Math Basics
-
-# Learning from Data
-- Unsupervised
-- Supervised
-
-# Python Fundamentals
-
-# Deep Learning
-- Building Blocks
-- (Convolutional) Neural Networks
