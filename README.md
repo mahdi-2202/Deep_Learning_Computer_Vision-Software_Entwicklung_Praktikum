@@ -3,16 +3,16 @@ Dieses Projekt implementiert ein Deep-Learning-Modell zur Klassifikation von Blu
 Zusätzlich wird Grad-CAM verwendet, um visuell darzustellen, welche Bildbereiche für die Entscheidung des Modells wichtig sind. Dadurch wird das Modell interpretierbar.
 
 ![](./bilder/sommerasterr.jpg)
-
 sommeraster
 
-![](./bilder/sonnenblume.JPG)
 
+![](./bilder/sonnenblume.JPG)
 sonnenblume
 
-![](./bilder/tellerkräuter.jpg)
 
+![](./bilder/tellerkräuter.jpg)
 tellerkräuter
+
 
 # Hauptfunktionen:
 - Laden und Vorverarbeiten von Bilddaten
